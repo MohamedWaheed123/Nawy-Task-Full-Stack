@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/nawy_project/nawyfe/node_modules/
+/nawy_project/Node-mongo/node_modules/
+
+
+# next.js
+/nawy_project/nawyfe/.next/
+
+
+
+# production
+/nawy_project/nawyfe/build/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+
