@@ -31,7 +31,8 @@ Follow these steps to get your project up and running:
 1. Clone the repository:
 2. Open terminal in the root folder which is (Nawy-Task-Full-Stack/nawy project)
 3. Run the following docker command to build the image `docker-compose up --build`
-4. Open you browser on `http://localhost:3000`
+4. If you've faced any permissions problems please try `sudo docker-compose up --build` 
+5. Open you browser on `http://localhost:3000`
 **Note**: This project currently does not support dark mode. Please switch your machine to light mode for better experience.
 
    
